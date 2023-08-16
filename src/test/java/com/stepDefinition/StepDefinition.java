@@ -18,7 +18,7 @@ public class StepDefinition extends BaseClass {
 	    
 		appLaunch(string, string2, string3, string4, string5);
 		
-		
+		System.out.println("Trail");
 		
 	}
 	@When("User click on the search icon")
